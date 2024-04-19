@@ -38,4 +38,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-Marco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-antonio-203b13263/)](https://www.linkedin.com/in/marco-antonio-203b13263/)
 [![Gmail Badge](https://img.shields.io/badge/-contatomarcodev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatomarcodev@gmail.com)](mailto:contatomarcodev@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/marcodev1x?label=follow&style=social)](https://github.com/marcodev1x/marcodev1x)
+[![GitHub](https://img.shields.io/github/followers/marcodev1x?label=follow&style=social)](https://github.com/marcodev1x)
