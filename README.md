@@ -30,7 +30,7 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Marco">
+<a href="https://github.com/marcodev1x/" title="Perfil do Marco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcodev1x&theme=dracula&show_icons=true" />
 </a>
 
