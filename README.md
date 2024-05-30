@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software, tanto em design quanto desenvolvimento. Tenho pleno desejo em contribuir tanto em produto quanto em tecnologia.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Integrado - CM/PR
 - 💼 Trabalhando como UX Designer na Super Professor.
-- 🌱 Aprendendo mais sobre JavaScript & PHP.
+- 🌱 Aprendendo mais sobre JavaScript
 
 ## Minhas Skills
 
