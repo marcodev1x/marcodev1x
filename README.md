@@ -4,16 +4,12 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software, tanto em design quanto desenvolvimento. Tenho pleno desejo em contribuir tanto em produto quanto em tecnologia.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Integrado - CM/PR
-- 💼 Trabalhando como UX Designer na Super Professor.
-- 🌱 Aprendendo mais sobre JavaScript
-
+- 💼 Trabalhando QA no Super Professor.
 ## Minhas Skills
 
 **Aplicações e dados**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **DevOps**
