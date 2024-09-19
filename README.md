@@ -10,6 +10,7 @@
 **Aplicações e dados**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **DevOps**
