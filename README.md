@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software, tanto em design quanto desenvolvimento. Tenho pleno desejo em contribuir tanto em produto quanto em tecnologia.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Integrado - CM/PR
-- 💼 Trabalhando QA no Super Professor.
+- 💼 Trabalhando como QA no Super Professor.
 ## Minhas Skills
 
 **Aplicações e dados**
