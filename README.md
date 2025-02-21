@@ -6,7 +6,7 @@
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Integrado - CM/PR
 - 💼 Trabalhando como QA no Super Professor.
 ## Minhas Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,cypress,figma,git,gherkin,js,mysql,postgres,nodejs,ts,prisma,react,sass,jest,zod,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,cypress,figma,git,gherkin,js,mysql,postgres,nodejs,ts,prisma,sequelize,knex,react,sass,jest,zod,postman)](https://skillicons.dev)
 --
 [![Linkedin](https://img.shields.io/badge/-Marco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-antonio-203b13263/)](https://www.linkedin.com/in/marco-antonio-203b13263/)
 [![Gmail Badge](https://img.shields.io/badge/-contatomarcodev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatomarcodev@gmail.com)](mailto:contatomarcodev@gmail.com)
