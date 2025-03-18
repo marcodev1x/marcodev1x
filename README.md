@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=marcodev1x&color=006bed)
-
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software, tanto em design quanto desenvolvimento. Tenho pleno desejo em contribuir tanto em produto quanto em tecnologia.
