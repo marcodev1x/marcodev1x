@@ -7,3 +7,6 @@
 - 💼 Trabalhando como QA no Super Professor.
 ## Minhas Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,cypress,figma,git,gherkin,js,mysql,postgres,nodejs,ts,prisma,sequelize,react,sass,jest,postman)](https://skillicons.dev)
+
+## Linguagens
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcodev1x)](https://github.com/marcodev1x/github-readme-stats)
