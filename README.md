@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/ks489Lg7/download.png" alt="download" border="0">
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software, tanto em design quanto desenvolvimento. Tenho pleno desejo em contribuir tanto em produto quanto em tecnologia.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software. Foco em Back-end, Testing automations e Cyber security.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Integrado - CM/PR
 - 💼 Trabalhando como QA no Super Professor.
 ## Minhas Skills
