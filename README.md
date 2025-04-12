@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software. Foco em Back-end, Testing automations e Cyber security.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Integrado - CM/PR
 - 💼 Trabalhando como QA no Super Professor.
