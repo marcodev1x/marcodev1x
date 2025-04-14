@@ -1,5 +1,5 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software. Foco em Back-end, Testing automations e Cyber security.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Integrado - CM/PR
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Integrado - CM/PR.
 - 💼 Trabalhando como QA no Super Professor.
 
 ## 💻 Tech Stack:
