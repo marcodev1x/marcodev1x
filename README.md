@@ -46,8 +46,3 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
----
-
-<h3 align="center" style="color:#E63946;">🔥 “Quality is not an act, it’s a habit.” 🔥</h3>
-<p align="center">Feito com <span style="color:#E63946;">❤️</span> e <span style="color:#E63946;">TypeScript</span></p>
