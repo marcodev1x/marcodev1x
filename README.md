@@ -18,17 +18,6 @@
 
 ---
 
-### 🛠️ Ferramentas & Ambientes  
-<p align="center">
-  <img src="https://img.shields.io/badge/GitLab-%23E63946?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23B00020?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-%23FF4655?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-%23D00000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
 ### ⚡ Um toque de energia
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
