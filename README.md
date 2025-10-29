@@ -1,3 +1,7 @@
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=24&duration=200&pause=299&color=E90000&center=true&width=435&lines=Marco+Antonio;QAE;SDET;Fullstack+Developer" /></p>
+
+---
+
 ### 👨‍💻 Sobre mim
 - 🚀 **Explorando novas tecnologias** e desenvolvendo soluções inteligentes de software.  
 - 💡 Foco em **Back-end, Testes automatizados e Cyber Security**.  
