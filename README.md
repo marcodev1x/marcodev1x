@@ -16,7 +16,7 @@
 
 ### 🧠 Áreas de Interesse
 > 💥 **Testes Unitários, Integração e E2E (Cypress / Jest)**  
-> 🧩 **Arquiteturas limpas e escaláveis no Node.js**  
+> 🧩 **Arquiteturas limpas e escaláveis em Go e Node.js**  
 > 🔐 **Segurança de aplicações web**  
 > ☁️ **Automação de fluxos e monitoramento de qualidade**
 
