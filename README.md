@@ -19,8 +19,6 @@
 - 🚀 **Explorando novas tecnologias** e desenvolvendo soluções inteligentes de software.  
 - 💡 Foco em **Back-end, Testes automatizados e Cyber Security**.  
 - 🎓 Formado em **TADS**.  
-- 💼 Atuando como **QAE/SDET** no [Super Professor](https://superprofessor.com.br).  
-
 ---
 
 ### ⚙️ Tech Stack Principal  
