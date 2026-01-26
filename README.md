@@ -1,4 +1,4 @@
-# 👋 Marco Antonio | Backend Developer
+# 👋 Marco Antonio | Backend Developer | Go + Node.js (com experiência React)
 
 <div align="center">
   
