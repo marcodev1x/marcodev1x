@@ -97,29 +97,6 @@ Integração com APIs de IA (OpenRouter/GPT) com sistema de filas assíncronas, 
 
 ---
 
-### 🧪 [Template de Testes - Vitest/Jest](https://github.com/marcodev1x/testing-template)
-> **Objetivo:** Democratizar boas práticas de testes
-
-Template completo com exemplos práticos de testes unitários, integração e E2E. Material base do meu curso no YouTube.
-
-**Tech:** `Vitest` `Jest` `Cypress` `Testing Library` `TDD`
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcodev1x&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcodev1x&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcodev1x&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 📚 Conteúdo & Comunidade
 
 ### 🎥 YouTube - [Curso de Testes Unitários](https://www.youtube.com/watch?v=EqU-yr89lww&list=PLNR8M6UP3LHQZDr9j3Z-bEp3evw_yN4In&index=4)
@@ -159,7 +136,6 @@ Estou aberto a oportunidades como:
 
 [![Email](https://img.shields.io/badge/Email-contatomarcodev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatomarcodev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco_Antonio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-antonio-developer)
-[![YouTube](https://img.shields.io/badge/YouTube-Curso_de_Testes-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seucanal)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-(44)_99996--6630-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544999966630)
 
 </div>
@@ -176,11 +152,5 @@ Estou aberto a oportunidades como:
 ### ⚡ "Código limpo não é escrito seguindo regras. É escrito com amor." - Uncle Bob
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
----
-
-**💡 Dica:** Se você chegou até aqui, considere dar uma olhada nos repositórios fixados acima!
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=marcodev1x.marcodev1x)
 
 </div>
