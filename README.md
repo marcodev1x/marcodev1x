@@ -1,47 +1,186 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="./style.css">
-    <link rel="icon" href="./favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  </head>
-  <body>
-    <main>
-        
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=24&duration=200&pause=299&color=E90000&center=true&width=435&lines=Marco+Antonio;QAE;SDET;Fullstack+Developer" /></p>
+# 👋 Marco Antonio | Backend Developer
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Go+%2B+Node.js;Performance+%26+Scalability+Specialist;Test+Automation+Expert;35%25+%E2%86%91+System+Optimization)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 👨‍💻 Sobre mim
-- 🚀 **Explorando novas tecnologias** e desenvolvendo soluções inteligentes de software.  
-- 💡 Foco em **Back-end, Testes automatizados e Cyber Security**.  
-- 🎓 Formado em **TADS**.  
----
+## 🚀 Quem sou eu
 
-### ⚙️ Tech Stack Principal  
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-52B0E7?style=for-the-badge&logo=zustand&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23F24E1E.svg?style=for-the-badge&logo=RABBITMQ&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-%23F24E1E.svg?style=for-the-badge&logo=BullMQ&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-%23404d59.svg?style=for-the-badge&logo=Gin&logoColor=%2361DAFB) ![GORM](https://img.shields.io/badge/gorm-%23404d59.svg?style=for-the-badge&logo=gorm&logoColor=%2361DAFB) ![Goland](https://img.shields.io/badge/Goland-%23404d59.svg?style=for-the-badge&logo=goland&logoColor=%2361DAFB) ![OpenRouter](https://img.shields.io/badge/openrouter-%23DD0031.svg?style=for-the-badge&logo=open-router&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-52B0E7?style=for-the-badge&logo=Docker&logoColor=white)
+Desenvolvedor Backend especializado em **Go e Node.js** com foco em **performance, escalabilidade e qualidade de código**. Nos últimos 2 anos, entreguei soluções que geraram impacto mensurável:
 
- 
-### 💡 Atualmente aprendendo
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23593d88.svg?style=for-the-badge&logo=Apache&logoColor=white)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" width=60 height=40 />
-          
----
+- ⚡ **35% de redução** no tempo de processamento (migração Node.js → Go)
+- 📈 **10x de escalabilidade**: 50 → 500+ req/hora em sistema de IA
+- 🧪 **90%+ test coverage** em microsserviços críticos
+- 🎓 **Instrutor**: [Curso gratuito de Vitest/Jest no YouTube](https://youtube.com/@seucanal)
 
-### 🧠 Áreas de Interesse
-> 💥 **Testes Unitários, Integração e E2E (Cypress / Jest)**  
-> 🧩 **Arquiteturas limpas e escaláveis em Go e Node.js**  
-> 🔐 **Segurança de aplicações web**  
-> ☁️ **Automação de fluxos e monitoramento de qualidade**
+> 💼 **Disponível para oportunidades Backend (Go/Node.js) ou Fullstack**  
+> 📍 Remoto | Brasil | Início imediato
 
 ---
 
-### ⚡ Um toque de energia
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-  </body>
-</html>
+## 💡 O que eu faço de melhor
+
+```go
+type Developer struct {
+    Focus       []string{"Backend", "Performance", "Testing", "Scalability"}
+    Delivers    []string{"High-impact solutions", "Clean architecture", "Measurable results"}
+    Specialties []string{"System optimization", "Concurrent programming", "Test automation"}
+}
+
+func (d *Developer) GetInTouch() string {
+    return "contatomarcodev@gmail.com"
+}
+```
+
+**Traduzindo:** Transformo sistemas lentos em máquinas de alta performance e garanto qualidade através de testes automatizados.
+
+---
+
+## 🛠️ Stack Técnica
+
+### Backend & Core
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Databases & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-CC0000?style=for-the-badge)
+
+### Testing & Quality
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+### DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 🔜 Estudando agora
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 🎯 Projetos em Destaque
+
+### 🔥 [Sistema de Geração de Provas - Migração Go](https://github.com/marcodev1x/projeto-go)
+> **Impacto:** 35% ↑ performance | 60% ↓ uso de memória
+
+Refatoração completa de Node.js para Go utilizando goroutines para processamento paralelo. Otimização de queries SQL (2s → 0.7s).
+
+**Tech:** `Go` `PostgreSQL` `Redis` `Goroutines` `Query Optimization`
+
+---
+
+### 🤖 [Sistema de Correção de Redações com IA](https://github.com/marcodev1x/ai-correction-system)
+> **Impacto:** 10x escalabilidade (50 → 500+ req/hora)
+
+Integração com APIs de IA (OpenRouter/GPT) com sistema de filas assíncronas, retry logic e rate limiting.
+
+**Tech:** `Node.js` `TypeScript` `BullMQ` `Redis` `RabbitMQ` `OpenRouter API`
+
+---
+
+### 🧪 [Template de Testes - Vitest/Jest](https://github.com/marcodev1x/testing-template)
+> **Objetivo:** Democratizar boas práticas de testes
+
+Template completo com exemplos práticos de testes unitários, integração e E2E. Material base do meu curso no YouTube.
+
+**Tech:** `Vitest` `Jest` `Cypress` `Testing Library` `TDD`
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcodev1x&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcodev1x&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcodev1x&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 📚 Conteúdo & Comunidade
+
+### 🎥 YouTube - [Curso de Testes Unitários](https://www.youtube.com/watch?v=EqU-yr89lww&list=PLNR8M6UP3LHQZDr9j3Z-bEp3evw_yN4In&index=4)
+Curso gratuito e prático sobre Vitest/Jest focado em casos reais de uso. Porque testes não devem ser negligenciados.
+
+**Conteúdo:**
+- ✅ Testes assíncronos e Promises
+- ✅ Mocks de APIs e databases
+- ✅ Coverage que realmente importa
+- ✅ TDD na prática (com exemplos reais)
+
+### 📝 LinkedIn - [Posts Técnicos](https://linkedin.com/in/marco-antonio-developer)
+Compartilho aprendizados sobre arquitetura, performance e qualidade de código.
+
+---
+
+## 💼 Vamos Trabalhar Juntos?
+
+Estou aberto a oportunidades como:
+- 🎯 **Desenvolvedor Backend** (Go/Node.js)
+- 🎯 **Desenvolvedor Fullstack** (Node.js + React)
+- 🎯 **Engenheiro de Software** (foco em performance/qualidade)
+
+**O que eu trago:**
+- ✅ Entrega de resultados mensuráveis (não apenas código)
+- ✅ Visão de negócio + execução técnica sólida
+- ✅ Experiência com refatoração de sistemas legados
+- ✅ Cultura de testes e qualidade de código
+
+**Regime:** CLT, PJ ou Remoto | **Disponibilidade:** Imediata
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-contatomarcodev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatomarcodev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco_Antonio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-antonio-developer)
+[![YouTube](https://img.shields.io/badge/YouTube-Curso_de_Testes-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seucanal)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(44)_99996--6630-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544999966630)
+
+</div>
+
+---
+
+## 🔥 Atividade Recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<div align="center">
+
+### ⚡ "Código limpo não é escrito seguindo regras. É escrito com amor." - Uncle Bob
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+---
+
+**💡 Dica:** Se você chegou até aqui, considere dar uma olhada nos repositórios fixados acima!
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=marcodev1x.marcodev1x)
+
+</div>
