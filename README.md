@@ -15,7 +15,7 @@ Desenvolvedor Backend especializado em **Go e Node.js** com foco em **performanc
 - ⚡ **35% de redução** no tempo de processamento (migração Node.js → Go)
 - 📈 **10x de escalabilidade**: 50 → 500+ req/hora em sistema de IA
 - 🧪 **90%+ test coverage** em microsserviços críticos
-- 🎓 **Instrutor**: [Curso gratuito de Vitest/Jest no YouTube]((https://www.youtube.com/watch?v=DeS3ZUHo0XA))
+- 🎓 **Instrutor**: [Curso gratuito de Vitest/Jest no YouTube](https://www.youtube.com/watch?v=DeS3ZUHo0XA)
 
 > 💼 **Disponível para oportunidades Backend (Go/Node.js) ou Fullstack**  
 > 📍 Remoto | Brasil | Início imediato
