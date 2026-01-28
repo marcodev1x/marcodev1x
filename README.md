@@ -13,7 +13,6 @@
 Desenvolvedor Backend especializado em **Go e Node.js** com foco em **performance, escalabilidade e qualidade de código**. Nos últimos 2 anos, entreguei soluções que geraram impacto mensurável:
 
 - ⚡ **35% de redução** no tempo de processamento (migração Node.js → Go)
-- 📈 **10x de escalabilidade**: 50 → 500+ req/hora em sistema de IA
 - 🧪 **90%+ test coverage** em microsserviços críticos
 - 🎓 **Instrutor**: [Curso gratuito de Vitest/Jest no YouTube](https://www.youtube.com/watch?v=DeS3ZUHo0XA)
 
@@ -89,8 +88,6 @@ Refatoração completa de Node.js para Go utilizando goroutines para processamen
 ---
 
 ### 🤖 [Sistema de Correção de Redações com IA](https://github.com/marcodev1x/ai-correction-system)
-> **Impacto:** 10x escalabilidade (50 → 500+ req/hora)
-
 Integração com APIs de IA (OpenRouter/GPT) com sistema de filas assíncronas, retry logic e rate limiting.
 
 **Tech:** `Node.js` `TypeScript` `BullMQ` `Redis` `RabbitMQ` `OpenRouter API`
