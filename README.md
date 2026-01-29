@@ -10,7 +10,7 @@
 
 ## 🚀 Quem sou eu
 
-Desenvolvedor Backend especializado em **Go e Node.js** com foco em **performance, escalabilidade e qualidade de código**. Nos últimos 2 anos, entreguei soluções que geraram impacto mensurável:
+Desenvolvedor Backend **Go e Node.js** com foco em **performance, escalabilidade e qualidade de código**. Nos últimos 2 anos, entreguei soluções que geraram impacto mensurável:
 
 - ⚡ **35% de redução** no tempo de processamento (migração Node.js → Go)
 - 🎓 **Instrutor**: [Curso gratuito de Vitest/Jest no YouTube](https://www.youtube.com/watch?v=DeS3ZUHo0XA)
@@ -75,24 +75,6 @@ func (d *Developer) GetInTouch() string {
 
 ---
 
-## 🎯 Projetos em Destaque
-
-### 🔥 [Sistema de Geração de Provas - Migração Go](https://github.com/marcodev1x/projeto-go)
-> **Impacto:** 35% ↑ performance | 60% ↓ uso de memória
-
-Refatoração completa de Node.js para Go utilizando goroutines para processamento paralelo. Otimização de queries SQL (2s → 0.7s).
-
-**Tech:** `Go` `PostgreSQL` `Redis` `Goroutines` `Query Optimization`
-
----
-
-### 🤖 [Sistema de Correção de Redações com IA](https://github.com/marcodev1x/ai-correction-system)
-Integração com APIs de IA (OpenRouter/GPT) com sistema de filas assíncronas, retry logic e rate limiting.
-
-**Tech:** `Node.js` `TypeScript` `BullMQ` `Redis` `RabbitMQ` `OpenRouter API`
-
----
-
 ## 📚 Conteúdo & Comunidade
 
 ### 🎥 YouTube - [Curso de Testes Unitários](https://www.youtube.com/watch?v=EqU-yr89lww&list=PLNR8M6UP3LHQZDr9j3Z-bEp3evw_yN4In&index=4)
@@ -137,11 +119,6 @@ Estou aberto a oportunidades como:
 </div>
 
 ---
-
-## 🔥 Atividade Recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <div align="center">
 
