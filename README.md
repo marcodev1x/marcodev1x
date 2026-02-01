@@ -58,6 +58,8 @@ func (d *Developer) GetInTouch() string {
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Gomock](https://img.shields.io/badge/Gomock-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Testify](https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
