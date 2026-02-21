@@ -15,9 +15,6 @@ Desenvolvedor Backend **Go e Node.js** com foco em **performance, escalabilidade
 - ⚡ **35% de redução** no tempo de processamento (migração Node.js → Go)
 - 🎓 **Instrutor**: [Curso gratuito de Vitest/Jest no YouTube](https://www.youtube.com/watch?v=DeS3ZUHo0XA)
 
-> 💼 **Disponível para oportunidades Backend (Go/Node.js) ou Fullstack**  
-> 📍 Remoto | Brasil | Início imediato
-
 ---
 
 ## 💡 O que eu faço de melhor
@@ -126,8 +123,6 @@ Estou aberto a oportunidades como:
 ---
 
 <div align="center">
-
-### ⚡ "Código limpo não é escrito seguindo regras. É escrito com amor." - Uncle Bob
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
