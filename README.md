@@ -100,14 +100,6 @@ Estou aberto a oportunidades como:
 - 🎯 **Desenvolvedor Fullstack** (Node.js + React)
 - 🎯 **Engenheiro de Software** (foco em performance/qualidade)
 
-**O que eu trago:**
-- ✅ Entrega de resultados mensuráveis (não apenas código)
-- ✅ Visão de negócio + execução técnica sólida
-- ✅ Experiência com refatoração de sistemas legados
-- ✅ Cultura de testes e qualidade de código
-
-**Regime:** CLT, PJ ou Remoto | **Disponibilidade:** Imediata
-
 ---
 
 ## 📫 Contato
