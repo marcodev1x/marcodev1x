@@ -44,6 +44,7 @@ func (d *Developer) GetInTouch() string {
 ![NestJS](https://img.shields.io/badge/Nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=FF0000)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
 
 ### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -51,6 +52,7 @@ func (d *Developer) GetInTouch() string {
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-CC0000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/Mongodb-339933?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Testing & Quality
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -73,7 +75,6 @@ func (d *Developer) GetInTouch() string {
 
 ### 🔜 Estudando agora
 ![K8s](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
