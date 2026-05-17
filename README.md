@@ -1,41 +1,27 @@
-# 👋 Marco Antonio | Backend Developer | Go + Node.js (com experiência React)
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Go+%2B+Node.js;Performance+%26+Scalability+Specialist;Test+Automation+Expert;35%25+%E2%86%91+System+Optimization)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Go+%2B+Node.js;Performance+%26+Scalability;Test+Automation;Clean+Architecture)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 Quem sou eu
-
-Desenvolvedor Backend **Go e Node.js** com foco em **performance, escalabilidade e qualidade de código**. Nos últimos 2 anos, entreguei soluções que geraram impacto mensurável:
-
-- ⚡ **35% de redução** no tempo de processamento (migração Node.js → Go)
-- 🎓 **Instrutor**: [Curso gratuito de Vitest/Jest no YouTube](https://www.youtube.com/watch?v=DeS3ZUHo0XA)
-
----
-
-## 💡 O que eu faço de melhor
+## Quem sou eu
 
 ```go
-type Developer struct {
-    Focus       []string{"Backend", "Performance", "Testing", "Scalability"}
-    Delivers    []string{"High-impact solutions", "Clean architecture", "Measurable results"}
-    Specialties []string{"System optimization", "Concurrent programming", "Test automation"}
-}
-
-func (d *Developer) GetInTouch() string {
-    return "contatomarcodev@gmail.com"
+type Marco struct {
+    Focus    []string{"Backend", "Performance", "Testing"}
+    Stack    []string{"Go", "Node.js", "TypeScript"}
+    Now      string{"Aprendendo Kubernetes"}
+    Contact  string{"contatomarcodev@gmail.com"}
 }
 ```
 
-**Traduzindo:** Transformo sistemas lentos em máquinas de alta performance e garanto qualidade através de testes automatizados.
+Backend developer com foco em **Go** e **Node.js**.
 
 ---
 
-## 🛠️ Stack Técnica
+## 🛠️ Stack
 
 ### Backend & Core
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -68,38 +54,26 @@ func (d *Developer) GetInTouch() string {
 ![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-### DevOps & Tools
+### DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### 🔜 Estudando agora
+### 🔜 Estudando
 ![K8s](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
-## 📚 Conteúdo & Comunidade
+## 📺 Conteúdo
 
-### 🎥 YouTube - [Curso de Testes Unitários](https://www.youtube.com/watch?v=EqU-yr89lww&list=PLNR8M6UP3LHQZDr9j3Z-bEp3evw_yN4In&index=4)
-Curso gratuito e prático sobre Vitest/Jest focado em casos reais de uso. Porque testes não devem ser negligenciados.
+### [Curso gratuito de Testes com Vitest/Jest](https://www.youtube.com/watch?v=EqU-yr89lww&list=PLNR8M6UP3LHQZDr9j3Z-bEp3evw_yN4In)
 
-**Conteúdo:**
-- ✅ Testes assíncronos e Promises
-- ✅ Mocks de APIs e databases
-- ✅ Coverage que realmente importa
-- ✅ TDD na prática (com exemplos reais)
+Prático e direto ao ponto — sem teoria vazia.
 
-### 📝 LinkedIn - [Posts Técnicos](https://linkedin.com/in/marco-antonio-developer)
-Compartilho aprendizados sobre arquitetura, performance e qualidade de código.
-
----
-
-## 💼 Vamos Trabalhar Juntos?
-
-Estou aberto a oportunidades como:
-- 🎯 **Desenvolvedor Backend** (Go/Node.js)
-- 🎯 **Desenvolvedor Fullstack** (Node.js + React)
-- 🎯 **Engenheiro de Software** (foco em performance/qualidade)
+![Testes assíncronos](https://img.shields.io/badge/✅-Testes_assíncronos_e_Promises-2ea44f?style=flat-square)
+![Mocks](https://img.shields.io/badge/✅-Mocks_de_APIs_e_databases-2ea44f?style=flat-square)
+![Coverage](https://img.shields.io/badge/✅-Coverage_que_importa-2ea44f?style=flat-square)
+![TDD](https://img.shields.io/badge/✅-TDD_na_prática-2ea44f?style=flat-square)
 
 ---
 
@@ -116,7 +90,5 @@ Estou aberto a oportunidades como:
 ---
 
 <div align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
