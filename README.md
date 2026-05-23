@@ -8,7 +8,7 @@
 
 ## Quem sou eu
 
-```go
+``` go
 type Marco struct {
     Focus    []string{"Backend", "Performance", "Testing"}
     Stack    []string{"Go", "Node.js", "TypeScript"}
