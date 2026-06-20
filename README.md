@@ -11,7 +11,7 @@
 ``` go
 type Marco struct {
     Focus    []string{"Backend", "Performance", "Testing"}
-    Stack    []string{"Go", "Node.js", "TypeScript"}
+    Stack    []string{"Go", "Node.js", "TypeScript", "React.js", "Next.js"}
     Now      string{"Aprendendo Kubernetes"}
     Contact  string{"contatomarcodev@gmail.com"}
 }
