@@ -1,94 +1,56 @@
-<div align="center">
+<!--
+  Antes de publicar:
+  1. Trocar o link do curso (placeholder abaixo).
+  2. Escolher 2 repositorios para a secao "Public work".
+  3. Apagar este comentario.
+-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Go+%2B+Node.js;Performance+%26+Scalability;Test+Automation;Clean+Architecture)](https://git.io/typing-svg)
+# Marco Antonio
 
-</div>
+Backend engineer, Go, distributed systems, financial services.
 
----
+I build and operate services on a surety insurance platform: an ecosystem of
+150+ Go microservices connected through gRPC, Kafka and API gateways, where
+data consistency and reliability are business requirements rather than
+aspirations.
 
-## Quem sou eu
+Before that, I led the rewrite of a document generation system from Node.js to
+Go 35% faster, with a significant drop in memory usage, and designed an
+asynchronous, AI-assisted correction pipeline that scaled from 50 to 500+
+operations per hour, with retries, rate limiting and fallback built in.
 
-``` go
-type Marco struct {
-    Focus    []string{"Backend", "Performance", "Testing"}
-    Stack    []string{"Go", "Node.js", "TypeScript", "React.js", "Next.js"}
-    Now      string{"Aprendendo Kubernetes"}
-    Contact  string{"contatomarcodev@gmail.com"}
-}
-```
+## How I work
 
-Backend developer com foco em **Go** e **Node.js**.
+- Tests are a design pressure. Code that is hard to test is telling you something.
+- Performance work starts with measurement. The numbers above came from profiling, not intuition.
+- The smallest change that solves the problem beats the framework that solves every problem.
 
----
+## Stack
 
-## 🛠️ Stack
+|  |  |
+| --- | --- |
+| **Core** | Go (go-kit), gRPC, Protocol Buffers |
+| **Messaging** | Kafka, RabbitMQ, event-driven design |
+| **Data** | PostgreSQL, MongoDB, Redis, Elasticsearch |
+| **Infra** | Kubernetes, Docker, AWS, GitHub Actions |
+| **AI** | Claude Code for optimized deliveries |
+| **When needed** | TypeScript, Node.js, React |
 
-### Backend & Core
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/Nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=FF0000)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+## Public work
 
-### Databases & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-CC0000?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/Mongodb-339933?style=for-the-badge&logo=mongodb&logoColor=white)
+Most of my production engineering lives in private, financial-sector
+repositories. What I can show:
 
-### Testing & Quality
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Gomock](https://img.shields.io/badge/Gomock-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Testify](https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- **[Automated testing course — free, pt-BR](https://youtu.be/_0Vt9ZjhFPw?si=lU3FEoPXRl15FC0u)** —
+  a YouTube series on testing real codebases: async flows, mocking APIs and
+  databases, coverage that means something, TDD in practice. Teaching it is
+  how I made sure I actually understood it.
+- **[Api gateway example, with Go. — HTTP to gRPC!](https://github.com/audita-bids/audita-api-gateway)** — An HTTP to gRPC internal api gateway, comes from client, goes to internal with a lot of validations.
+- **[Agent Go microservice](https://github.com/audita-bids/agents)** — Go microservice
+  (go-kit, gRPC) that turns very large Brazilian procurement PDFs into structured
+  JSON without sending the document to the LLM: local text extraction, in-memory
+  embeddings and per-field top-k retrieval feed a single schema-constrained call.
+  The full document only ever touches the cheap embedding model.
+## Contact
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-### DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### 🔜 Estudando
-![K8s](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
-
-## 📺 Conteúdo
-
-### [Curso gratuito de Testes com Vitest/Jest](https://www.youtube.com/watch?v=EqU-yr89lww&list=PLNR8M6UP3LHQZDr9j3Z-bEp3evw_yN4In)
-
-Prático e direto ao ponto — sem teoria vazia.
-
-![Testes assíncronos](https://img.shields.io/badge/✅-Testes_assíncronos_e_Promises-2ea44f?style=flat-square)
-![Mocks](https://img.shields.io/badge/✅-Mocks_de_APIs_e_databases-2ea44f?style=flat-square)
-![Coverage](https://img.shields.io/badge/✅-Coverage_que_importa-2ea44f?style=flat-square)
-![TDD](https://img.shields.io/badge/✅-TDD_na_prática-2ea44f?style=flat-square)
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-contatomarcodev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatomarcodev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco_Antonio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-antonio-developer)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(44)_99996--6630-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544999966630)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+[contatomarcodev@gmail.com](mailto:contatomarcodev@gmail.com) · [LinkedIn](https://linkedin.com/in/marco-antonio-developer)
