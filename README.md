@@ -37,7 +37,7 @@ operations per hour, with retries, rate limiting and fallback built in.
 | **Databases** | MariaDB, MySQL, PostgreSQL, MongoDB, Redis |
 | **Search** | Elasticsearch |
 | **Infrastructure** | Docker, Kubernetes, AWS |
-| **Observability** | Prometheus, Grafana |
+| **Observability** | Prometheus, Grafana, Kibana, VictoriaMetrics, Vector |
 | **Architecture** | Microservices, Event-driven, CQRS, API Gateway |
 | **CI/CD** | GitHub Actions, Jenkins |
 | **AI** | Claude Code, OpenAI APIs, Embeddings, RAG |
