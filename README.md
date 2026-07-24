@@ -1,13 +1,6 @@
-<!--
-  Antes de publicar:
-  1. Trocar o link do curso (placeholder abaixo).
-  2. Escolher 2 repositorios para a secao "Public work".
-  3. Apagar este comentario.
--->
-
 # Marco Antonio
 
-Backend engineer, Go, distributed systems, financial services.
+Backend Software Engineer focused on Go, distributed systems, event-driven architectures and financial services.
 
 I build and operate services on a surety insurance platform: an ecosystem of
 150+ Go microservices connected through gRPC, Kafka and API gateways, where
@@ -19,6 +12,16 @@ Go 35% faster, with a significant drop in memory usage, and designed an
 asynchronous, AI-assisted correction pipeline that scaled from 50 to 500+
 operations per hour, with retries, rate limiting and fallback built in.
 
+## Areas
+
+- Distributed Systems
+- Backend Architecture
+- Event-driven Systems
+- High Performance APIs
+- Financial & Insurance Platforms
+- AI-assisted Processing Pipelines
+- Microservices
+
 ## How I work
 
 - Tests are a design pressure. Code that is hard to test is telling you something.
@@ -26,15 +29,19 @@ operations per hour, with retries, rate limiting and fallback built in.
 - The smallest change that solves the problem beats the framework that solves every problem.
 
 ## Stack
-
-|  |  |
-| --- | --- |
-| **Core** | Go (go-kit), gRPC, Protocol Buffers |
-| **Messaging** | Kafka, RabbitMQ, event-driven design |
-| **Data** | PostgreSQL, MongoDB, Redis, Elasticsearch |
-| **Infra** | Kubernetes, Docker, AWS, GitHub Actions |
-| **AI** | Claude Code for optimized deliveries |
-| **When needed** | TypeScript, Node.js, React |
+| | |
+|---|---|
+| **Languages** | Go, TypeScript, JavaScript |
+| **Backend** | go-kit, Gin, gRPC, Protocol Buffers |
+| **Messaging** | Kafka, RabbitMQ |
+| **Databases** | PostgreSQL, MongoDB, Redis |
+| **Search** | Elasticsearch |
+| **Infrastructure** | Docker, Kubernetes, AWS |
+| **Observability** | Prometheus, Grafana |
+| **Architecture** | Microservices, Event-driven, CQRS, API Gateway |
+| **CI/CD** | GitHub Actions, Jenkins |
+| **AI** | Claude Code, OpenAI APIs, Embeddings, RAG |
+| **Frontend** | React, Next.js |
 
 ## Public work
 
@@ -51,6 +58,17 @@ repositories. What I can show:
   JSON without sending the document to the LLM: local text extraction, in-memory
   embeddings and per-field top-k retrieval feed a single schema-constrained call.
   The full document only ever touches the cheap embedding model.
+  
 ## Contact
 
 [contatomarcodev@gmail.com](mailto:contatomarcodev@gmail.com) · [LinkedIn](https://linkedin.com/in/marco-antonio-developer)
+
+## Git
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=marcodev1x&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcodev1x&theme=github-compact&hide_border=true"/>
+</p>
