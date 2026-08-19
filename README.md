@@ -1,6 +1,6 @@
 # Marco Antonio
 
-Backend Software Engineer focused on Go, distributed systems, event-driven architectures and financial services.
+Software Engineer focused on Go and Node.js, distributed systems, event-driven architectures and financial services.
 
 I build and operate services on a surety insurance platform: an ecosystem of
 150+ Go microservices connected through gRPC, Kafka and API gateways, where
@@ -21,6 +21,7 @@ operations per hour, with retries, rate limiting and fallback built in.
 - Financial & Insurance Platforms
 - AI-assisted Processing Pipelines
 - Microservices
+- Frontend
 
 ## How I work
 
