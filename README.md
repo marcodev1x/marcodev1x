@@ -22,6 +22,7 @@ operations per hour, with retries, rate limiting and fallback built in.
 - AI-assisted Processing Pipelines
 - Microservices
 - Frontend
+- Infra
 
 ## How I work
 
