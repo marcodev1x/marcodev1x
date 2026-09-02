@@ -34,7 +34,7 @@ operations per hour, with retries, rate limiting and fallback built in.
 | | |
 |---|---|
 | **Languages** | Go, TypeScript, JavaScript |
-| **Backend** | go-kit, Gin, gRPC, Protocol Buffers |
+| **Backend** | go-kit, Gin, Fiber, gRPC, Protocol Buffers, Express, Nest |
 | **Messaging** | Kafka, RabbitMQ |
 | **Databases** | MariaDB, MySQL, PostgreSQL, MongoDB, Redis |
 | **Search** | Elasticsearch |
