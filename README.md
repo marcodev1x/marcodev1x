@@ -5,7 +5,7 @@ Software Engineer focused on Go and Node.js, distributed systems, event-driven a
 I build and operate services on a surety insurance platform: an ecosystem of
 150+ Go microservices connected through gRPC, Kafka and API gateways, where
 data consistency and reliability are business requirements rather than
-aspirations.
+aspirations!
 
 Before that, I led the rewrite of a document generation system from Node.js to
 Go 35% faster, with a significant drop in memory usage, and designed an
