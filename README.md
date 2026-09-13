@@ -3,7 +3,7 @@
 Software Engineer focused on Go and Node.js, distributed systems, event-driven architectures and financial services.
 
 I build and operate services on a surety insurance platform: an ecosystem of
-150+ Go microservices connected through gRPC, Kafka and API gateways, where
+200+ Go microservices connected through gRPC, Kafka and API gateways, where
 data consistency and reliability are business requirements rather than
 aspirations!
 
@@ -35,13 +35,14 @@ operations per hour, with retries, rate limiting and fallback built in.
 |---|---|
 | **Languages** | Go, TypeScript, JavaScript |
 | **Backend** | go-kit, Gin, Fiber, gRPC, Protocol Buffers, Express, Nest |
-| **Messaging** | Kafka, RabbitMQ |
+| **Messaging/Streaming** | Kafka, RabbitMQ 
+, BullMQ |
 | **Databases** | MariaDB, MySQL, PostgreSQL, MongoDB, Redis |
 | **Search** | Elasticsearch |
 | **Infrastructure** | Docker, Kubernetes, AWS |
 | **Observability** | Prometheus, Grafana, Kibana, VictoriaMetrics, Vector |
 | **Architecture** | Microservices, Event-driven, CQRS, API Gateway |
-| **CI/CD** | GitHub Actions, Jenkins |
+| **CI/CD** | GitHub Actions, Jenkins, Gitlab CI |
 | **AI** | Claude Code, OpenAI APIs, Embeddings, RAG |
 | **Frontend** | React, Next.js |
 
