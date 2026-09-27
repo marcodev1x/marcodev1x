@@ -3,13 +3,13 @@
 Software Engineer focused on Go and Node.js, distributed systems, event-driven architectures and financial services.
 
 I build and operate services on a surety insurance platform: an ecosystem of
-200+ Go microservices connected through gRPC, Kafka and API gateways, where
+250+ Go microservices connected through gRPC, Kafka and API gateways, where
 data consistency and reliability are business requirements rather than
 aspirations!
 
 Before that, I led the rewrite of a document generation system from Node.js to
 Go 35% faster, with a significant drop in memory usage, and designed an
-asynchronous, AI-assisted correction pipeline that scaled from 50 to 500+
+asynchronous, AI-assisted correction pipeline that scaled from 50 to 550+
 operations per hour, with retries, rate limiting and fallback built in.
 
 ## Areas
