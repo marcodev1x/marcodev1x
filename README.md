@@ -9,7 +9,7 @@ aspirations!
 
 Before that, I led the rewrite of a document generation system from Node.js to
 Go 35% faster and stable, with a significant drop in memory usage, and designed an
-asynchronous, AI-assisted correction pipeline that scaled from 50 to 550+
+asynchronous, AI-assisted correction pipeline that scaled from 50 to 500+
 operations per hour, with retries, rate limiting and fallback built in.
 
 ## Areas
