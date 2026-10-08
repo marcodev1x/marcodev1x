@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/854d1cc3-a946-4791-a713-fba6ac16b1ff" width="100%" alt="Marco Antonio, backend engineer. Go, distributed systems, insurance and financial platforms.">
 </p>
 
-I'm a backend engineer working in Go and Node.js. I build and operate services on a surety insurance platform of 150+ Go microservices connected through gRPC, Kafka and API gateways, used by some of the largest multinational insurance brokerages. There, data consistency and reliability are business requirements, not aspirations.
+I'm a backend engineer working in Go and Node.js. I build and operate services on a surety insurance platform of 250+ Go microservices connected through gRPC, Kafka and API gateways, used by some of the largest multinational insurance brokerages. There, data consistency and reliability are business requirements, not aspirations.
 
 ## What I own
 
