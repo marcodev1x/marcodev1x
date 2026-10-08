@@ -20,7 +20,7 @@ In EdTech, I led the rewrite of a document generation service from Node.js to Go
 
 Most of my production engineering lives in private, financial-sector repositories. What I can show:
 
-- **[agents](https://github.com/audita-bids/agents)** (Go, go-kit, gRPC). Turns very large Brazilian procurement PDFs into structured JSON without sending the document to the LLM. Local text extraction, in-memory embeddings and per-field top-k retrieval feed a single schema-constrained call, so the full document only touches the cheap embedding model: about 15× fewer tokens, no vector database.
+- **[agents](https://github.com/marcodev1x/agents)** (Go, go-kit, gRPC). Turns very large Brazilian procurement PDFs into structured JSON without sending the document to the LLM. Local text extraction, in-memory embeddings and per-field top-k retrieval feed a single schema-constrained call, so the full document only touches the cheap embedding model: about 15× fewer tokens, no vector database.
 - **[audita-api-gateway](https://github.com/audita-bids/audita-api-gateway)** (Go, go-kit). Internal gateway that translates HTTP requests into gRPC calls and validates them at the edge.
 - **[webhooks](https://github.com/audita-bids/webhooks)** (Go). Generic webhook receiver for third-party integrations.
 - **[tema-certo-payments](https://github.com/tema-certo/tema-certo-payments)** (Node.js, TypeScript). Stripe checkout and webhooks: the HTTP layer verifies signatures and hands events to a durable RabbitMQ queue drained by a separate consumer.
