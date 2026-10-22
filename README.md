@@ -10,10 +10,6 @@ I'm a backend engineer working in Go and Node.js. I build and operate services o
 - **Policy-chain cascade engine.** Designed and maintain the engine that propagates a single change across renewal and endorsement chains at 1,000 issuances a day, which ended manual chain fixes. Bidirectional BFS in semaphore-bounded waves, with cycle detection and field-mask propagation that keeps 10+ collections consistent through Redis, Elasticsearch and Kafka.
 - **Production.** Diagnose incidents with OpenTelemetry, Elastic APM and Kibana, from mass pod evictions under memory pressure to MongoDB context-cancellation timeouts.
 
-## Before that
-
-In EdTech, I led the rewrite of a document generation service from Node.js to Go, making it 35% faster and cutting queries per operation from 110 to 5. I also designed an AI-assisted correction pipeline that scaled from 50 to 580+ operations per hour, with retries, rate limiting and fallbacks built in.
-
 ## Public work
 
 Most of my production engineering lives in private, financial-sector repositories. What I can show:
