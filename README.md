@@ -44,7 +44,7 @@ Most of my production engineering lives in private, financial-sector repositorie
 | Delivery | GitHub Actions | GitLab CI, Jenkins |
 | Patterns | Event-driven microservices, API gateways, BFF, idempotency, dead-letter queues, rate limiting | Outbox |
 | AI | Claude Code | Embeddings, RAG, OpenAI APIs |
-| Frontend | | React, Next.js, TanStack Query |
+| Frontend | React, Next.js, TanStack Query | Tailwind |
 
 ## Contact
 
