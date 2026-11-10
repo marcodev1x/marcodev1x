@@ -15,6 +15,7 @@ I'm a backend engineer working mainly in Go (Golang), with two years of Node.js 
 
 ## How I work
 
+- **Architecture**. I am fully interested in architecture design and system design: database selection driven by access patterns and CAP trade-offs, sharding and partitioning, read replicas, and API definitions, contracts and models. I have studied API gateways as the single entry point, rate limiting (token bucket and time-window algorithms), CDNs, and Layer 7 load balancing for HTTP and gRPC with Traefik, Envoy and Istio. I also work with Kafka and with choosing between event-driven architecture styles. I have basic knowledge of federation.
 - **Every retry needs a ceiling.** I once found a retry loop on failed policy issuances that fanned out chained retry events across several services, unnoticed for a year or more: over 900,000 retries through Kafka, day and night. Removing it saved cost and took away load that could have brought the service down. In the Go services I work on, each Kafka consumer declares its own retry count, messages that still fail go to a dead-letter queue, and payment calls carry an idempotency key.
 - **A limit per pod is not a global limit.** Eight replicas with an in-memory limit of 2 each allow 16. When a limit has to hold across replicas, it lives in Redis.
 - **Measure first.** Performance work starts with a profiler and a baseline. When I led the move of a document-generation service from Node.js to Go, processing time dropped 35.3% and queries per operation went from 110 to 5, measured before and after. For CPU and memory under load, I use pprof.
@@ -38,7 +39,7 @@ Most of my production engineering lives in private, financial-sector repositorie
 | Services | go-kit, gRPC, Protocol Buffers, Gin | NestJS, Express, Fiber |
 | Messaging | Kafka | RabbitMQ, BullMQ, Debezium (CDC) |
 | Data | MongoDB (Atlas Search), PostgreSQL, Redis, Elasticsearch | MySQL, MariaDB |
-| Infrastructure | Kubernetes (EKS), AWS, Docker, ArgoCD | K3s, Helm |
+| Infrastructure | Kubernetes (EKS), Istio, Traefik, AWS, Docker, ArgoCD | K3s, Helm |
 | Observability | OpenTelemetry, Prometheus, Elastic APM, ELK | Grafana, VictoriaMetrics, Vector |
 | Testing | go test, gomock, contract tests, pprof | Jest |
 | Delivery | GitHub Actions | GitLab CI, Jenkins |
